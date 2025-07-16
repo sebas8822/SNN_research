@@ -1,0 +1,15 @@
+# Ignore the data directory
+data/
+extracted_images/
+generated_plans/
+Parse_data/
+test_output/
+test/
+generated_content_llm/
+generated_content/
+final_presentations/
+
+
+
+*.iso
+*.zip
