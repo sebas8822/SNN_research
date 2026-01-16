@@ -1,0 +1,15 @@
+{
+  "inverse_frequency": {
+    "Prophase": 1.0,
+    "Metaphase": 1.9275362318840579,
+    "Anaphase": 3.970149253731343,
+    "Telophase": 5.32
+  },
+  "effective_number_beta": 0.999,
+  "effective_number": {
+    "Prophase": 0.00427967010534957,
+    "Metaphase": 0.007754255118934631,
+    "Anaphase": 0.015423494911911369,
+    "Telophase": 0.020494166910027953
+  }
+}

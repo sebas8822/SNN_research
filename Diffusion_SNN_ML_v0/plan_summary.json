@@ -1,0 +1,25 @@
+{
+  "strategy": "match_max",
+  "cap_per_sample": 4,
+  "orig_counts": {
+    "Prophase": 266,
+    "Metaphase": 138,
+    "Anaphase": 67,
+    "Telophase": 50
+  },
+  "target_counts": {
+    "Prophase": 266,
+    "Metaphase": 266,
+    "Anaphase": 266,
+    "Telophase": 266
+  },
+  "planned_add_total": 527,
+  "estimated_final_counts": {
+    "Prophase": 266,
+    "Metaphase": 266,
+    "Anaphase": 266,
+    "Telophase": 250
+  },
+  "plan_csv": "/home/sebas_dev_linux/projects/snn_project/Diffusion_SNN_ML_v0/augmentation_plan.csv",
+  "weights_json": "/home/sebas_dev_linux/projects/snn_project/Diffusion_SNN_ML_v0/class_weights.json"
+}
